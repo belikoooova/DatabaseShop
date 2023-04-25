@@ -1,0 +1,15 @@
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/bin/Debug/net6.0/DataLib.deps.json
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/bin/Debug/net6.0/DataLib.dll
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/bin/Debug/net6.0/DataLib.pdb
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/bin/Debug/net6.0/NewVariant.dll
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/bin/Debug/net6.0/NewVariant.pdb
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/obj/Debug/net6.0/DataLib.csproj.AssemblyReference.cache
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/obj/Debug/net6.0/DataLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/obj/Debug/net6.0/DataLib.AssemblyInfoInputs.cache
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/obj/Debug/net6.0/DataLib.AssemblyInfo.cs
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/obj/Debug/net6.0/DataLib.csproj.CoreCompileInputs.cache
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/obj/Debug/net6.0/DataLib.csproj.CopyComplete
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/obj/Debug/net6.0/DataLib.dll
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/obj/Debug/net6.0/refint/DataLib.dll
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/obj/Debug/net6.0/DataLib.pdb
+/Users/belikoooova/RiderProjects/midterm_3.3/DataLib/obj/Debug/net6.0/ref/DataLib.dll

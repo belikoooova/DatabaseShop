@@ -1,0 +1,1 @@
+[{"id":0,"buyer_id":0,"shop_id":0,"good_id":0,"good_count":1},{"id":1,"buyer_id":0,"shop_id":0,"good_id":1,"good_count":1},{"id":2,"buyer_id":1,"shop_id":1,"good_id":2,"good_count":1},{"id":3,"buyer_id":0,"shop_id":2,"good_id":3,"good_count":1},{"id":4,"buyer_id":0,"shop_id":2,"good_id":4,"good_count":1}]

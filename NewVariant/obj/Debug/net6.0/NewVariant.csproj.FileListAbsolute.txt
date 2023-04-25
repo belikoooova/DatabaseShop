@@ -1,0 +1,12 @@
+/Users/belikoooova/RiderProjects/midterm_3.3/NewVariant/bin/Debug/net6.0/NewVariant.deps.json
+/Users/belikoooova/RiderProjects/midterm_3.3/NewVariant/bin/Debug/net6.0/NewVariant.dll
+/Users/belikoooova/RiderProjects/midterm_3.3/NewVariant/bin/Debug/net6.0/NewVariant.pdb
+/Users/belikoooova/RiderProjects/midterm_3.3/NewVariant/obj/Debug/net6.0/NewVariant.csproj.AssemblyReference.cache
+/Users/belikoooova/RiderProjects/midterm_3.3/NewVariant/obj/Debug/net6.0/NewVariant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belikoooova/RiderProjects/midterm_3.3/NewVariant/obj/Debug/net6.0/NewVariant.AssemblyInfoInputs.cache
+/Users/belikoooova/RiderProjects/midterm_3.3/NewVariant/obj/Debug/net6.0/NewVariant.AssemblyInfo.cs
+/Users/belikoooova/RiderProjects/midterm_3.3/NewVariant/obj/Debug/net6.0/NewVariant.csproj.CoreCompileInputs.cache
+/Users/belikoooova/RiderProjects/midterm_3.3/NewVariant/obj/Debug/net6.0/NewVariant.dll
+/Users/belikoooova/RiderProjects/midterm_3.3/NewVariant/obj/Debug/net6.0/refint/NewVariant.dll
+/Users/belikoooova/RiderProjects/midterm_3.3/NewVariant/obj/Debug/net6.0/NewVariant.pdb
+/Users/belikoooova/RiderProjects/midterm_3.3/NewVariant/obj/Debug/net6.0/ref/NewVariant.dll

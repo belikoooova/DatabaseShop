@@ -1,0 +1,1 @@
+[{"id":0,"name":"MTC","city":"Moscow","country":"Russia"},{"id":1,"name":"Beeline","city":"Moscow","country":"Russia"},{"id":2,"name":"Goldman Sachs","city":"Dubai","country":"UAE"}]

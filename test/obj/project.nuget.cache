@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GOEmydmE/SdmRM0UM3qs8AZYKh59/XN/6Tj9SlK2wTHRMeHR7BNXraXlFRr1rVtqx5gRDcwmzFcfBna5MTWQOw==",
+  "success": true,
+  "projectFilePath": "/Users/belikoooova/RiderProjects/midterm_3.3/test/test.csproj",
+  "expectedPackageFiles": [
+    "/Users/belikoooova/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/Users/belikoooova/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "/Users/belikoooova/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.14/microsoft.netcore.app.host.osx-arm64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
